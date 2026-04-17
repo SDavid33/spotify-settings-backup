@@ -1,0 +1,13 @@
+[
+  {
+    "name": "Settings Backup",
+    "description": "Backup and restore Spotify + Spicetify settings with autosave and export/import.",
+    "preview": "preview.png",
+    "main": "extensions/settingsBackup.full.js",
+    "readme": "README.md",
+    "authors": [
+      { "name": "SDavid33", "url": "https://github.com/SDavid33" }
+    ],
+    "tags": ["backup", "settings", "autosave"]
+  }
+]
