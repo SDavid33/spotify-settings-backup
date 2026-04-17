@@ -6,4 +6,4 @@ Backup &amp; restore Spotify + Spicetify settings
 This extension is designed for the Spicetify Marketplace.
 
 File location:
-resources/extensions/settingsBackup.full.js
+extensions/settingsBackup.full.js
