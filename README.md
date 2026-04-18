@@ -40,6 +40,25 @@ If you've ever:
 
 ---
 
+## 📦 Installation
+
+1. 📥 Download or clone this repository  
+2. 📂 Move `settingsBackup.full.js` to:
+
+   ```
+   %APPDATA%\spicetify\Extensions
+   ```
+3. ⚙️ Enable the extension:
+   ```
+   spicetify config extensions settingsBackup.full.js
+   spicetify apply
+   ```
+4. 🔄 Restart Spotify
+
+
+---
+
+
 ## 💡 Example use cases
 
 * Reinstalling Spotify without losing settings
