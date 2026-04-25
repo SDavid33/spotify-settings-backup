@@ -105,3 +105,8 @@ If you find this useful, consider starring the repo.
 ## 🤝 Contributing
 
 Pull requests and ideas are welcome.
+
+
+## Sponsor
+
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/N4N0XO52O)
