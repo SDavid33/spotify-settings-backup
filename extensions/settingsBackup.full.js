@@ -431,9 +431,17 @@
             restoreLatestItem,
             saveNowItem,
             statusItem,
-        ]);
+        ], getBackupMenuIcon());
 
         submenu.register();
+    }
+
+    function getBackupMenuIcon() {
+        return `
+            <svg height="16" width="16" viewBox="0 0 16 16" fill="currentColor">
+                <path d="M2 1.5h9.7L14.5 4.3v10.2h-13v-13Zm1.5 1.5v10h9.5V4.9L11.1 3H10v4H4V3H3.5Zm2 0v2.5h3V3h-3Zm-.5 7h6v3H5v-3Z"></path>
+            </svg>
+        `;
     }
 
     registerMenus();
